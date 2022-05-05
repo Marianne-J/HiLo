@@ -1,30 +1,25 @@
 # Overview
 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
+This is a game of HiLo, based on a version of the game I helped write previously. The program randomly generates a number and the player guesses whether the next number will be higher or lower than that number. If the user guesses correctly, they earn points. If they guess incorrectly, they lose points. The game ends either when the player chooses to quit, or the number of points reaches zero.
 
-{Provide a description the software that you wrote to demonstrate the Java language.}
-
-{Describe your purpose for writing this software.}
+My purpose in writing this program was to learn how to and practice programming in the Java programming language.
 
 {Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the software running and a walkthrough of the code.  Focus should be on sharing what you learned about the language syntax.}
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video]()
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
-
-{Describe the programming language that you used and any libraries.}
+* Visual Studio Code
+* Java
+* Git / GitHub
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+* [Java Tutorial](https://www.w3schools.com/java/default.asp)
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
-* Item 1
-* Item 2
-* Item 3
+* Improve code layout
+* Add code to deal with repeated numbers
+* Fix class names
