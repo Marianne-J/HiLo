@@ -32,8 +32,8 @@ public class Master {
     }
 
     public void get_inputs() {
-        /*Calls the generate_number function and takes input from
-        the user.
+        /*Calls the generate_number function and asks the user for their
+        guess.
         */
 
         boolean invalid_input = true;
