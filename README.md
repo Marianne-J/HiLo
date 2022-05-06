@@ -4,9 +4,7 @@ This is a game of HiLo, based on a version of the game I helped write previously
 
 My purpose in writing this program was to learn how to and practice programming in the Java programming language.
 
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the software running and a walkthrough of the code.  Focus should be on sharing what you learned about the language syntax.}
-
-[Software Demo Video]()
+[Software Demo Video](https://youtu.be/xYvlQoFj5xI)
 
 # Development Environment
 
